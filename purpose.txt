@@ -1,1 +1,2 @@
 I will teach the class using this live demo
+and limit queries to the DMV region
